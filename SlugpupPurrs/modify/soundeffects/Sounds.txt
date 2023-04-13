@@ -1,0 +1,2 @@
+[ADD]purrr/rangeFac=2 : purrr/vol=0.8/pitch=1
+[ADD]meow/rangeFac=0.5 : meow/vol=0.3/pitch=1
